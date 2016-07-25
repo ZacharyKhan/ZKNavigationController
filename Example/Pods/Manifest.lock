@@ -1,0 +1,16 @@
+PODS:
+  - ZKNavigationController (0.1.0)
+
+DEPENDENCIES:
+  - ZKNavigationController (from `../`)
+
+EXTERNAL SOURCES:
+  ZKNavigationController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZKNavigationController: ec6657f761b9aaa35ccd6264802068c91b0d6756
+
+PODFILE CHECKSUM: 98a66579ec85269db1cd730c0851ea04e86405ab
+
+COCOAPODS: 1.0.0

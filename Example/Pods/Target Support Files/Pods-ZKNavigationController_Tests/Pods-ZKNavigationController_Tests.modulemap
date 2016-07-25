@@ -1,0 +1,6 @@
+framework module Pods_ZKNavigationController_Tests {
+  umbrella header "Pods-ZKNavigationController_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module ZKNavigationController {
+  umbrella header "ZKNavigationController-umbrella.h"
+
+  export *
+  module * { export * }
+}
