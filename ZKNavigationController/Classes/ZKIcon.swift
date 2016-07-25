@@ -8,9 +8,9 @@
 
 import UIKit
 
-class ZKIcon: UIImageView {
+public class ZKIcon: UIImageView {
 
-    override init(image: UIImage?) {
+    override public init(image: UIImage?) {
         super.init(image: image)
         
         self.frame = CGRect(x: 0, y: 0, width: 45, height: 45)
@@ -21,7 +21,7 @@ class ZKIcon: UIImageView {
         self.layer.borderWidth = 2
     }
     
-    required init?(coder aDecoder: NSCoder) {
+    required public init?(coder aDecoder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
     }
 
