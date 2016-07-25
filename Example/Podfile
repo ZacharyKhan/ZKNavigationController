@@ -1,0 +1,10 @@
+use_frameworks!
+
+target 'ZKNavigationController_Example' do
+  pod 'ZKNavigationController', :path => '../'
+
+  target 'ZKNavigationController_Tests' do
+    inherit! :search_paths
+    
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "ZKNavigationController",
+  "version": "0.1.0",
+  "summary": "A short description of ZKNavigationController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/ZKNavigationController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zach": "zachary.khan3@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/ZKNavigationController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZKNavigationController/Classes/**/*"
+}
