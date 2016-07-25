@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  ZKNavigationController: ec6657f761b9aaa35ccd6264802068c91b0d6756
+  ZKNavigationController: 1067cfe715ec44dfaa1ef8aafb778e4cae514837
 
 PODFILE CHECKSUM: 98a66579ec85269db1cd730c0851ea04e86405ab
 

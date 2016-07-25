@@ -10,24 +10,11 @@ import UIKit
 import CoreGraphics
 import Foundation
 
-class ZKNavigationController: UINavigationController {
+public class ZKNavigationController: UINavigationController {
     
     var shown : Bool! = false
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
-    }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
     
-    
-    
-    func showAlert(PopupView: ZKNavigationPopupView?) {
+    public func showAlert(PopupView: ZKNavigationPopupView?) {
         if !self.shown {
             print("NOTHIN SHOWN, GO AHEAD!")
             let view = PopupView!

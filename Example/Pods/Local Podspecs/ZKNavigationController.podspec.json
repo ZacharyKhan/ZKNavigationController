@@ -1,9 +1,9 @@
 {
   "name": "ZKNavigationController",
   "version": "0.1.0",
-  "summary": "A short description of ZKNavigationController.",
+  "summary": "Simple, yet clean way to show alerts via NavigationController",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/ZKNavigationController",
+  "homepage": "https://github.com/ZacharyKhan/ZKNavigationController",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Zach": "zachary.khan3@gmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/ZKNavigationController.git",
+    "git": "https://github.com/ZacharyKhan/ZKNavigationController.git",
     "tag": "0.1.0"
   },
   "platforms": {

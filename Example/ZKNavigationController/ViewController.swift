@@ -7,18 +7,24 @@
 //
 
 import UIKit
+import Foundation
 import ZKNavigationController
 
 class ViewController: UIViewController {
     
+    override func viewDidLoad() {
+        super.viewDidLoad()
+    }
+    
     @IBAction func showAlertButtonHandler(sender: AnyObject) {
-        show(withIcon: true)
+        self.show(withIcon: true)
     }
     @IBAction func showWithoutIconHandler(sender: AnyObject) {
-        show(withIcon: false)
+        self.show(withIcon: false)
     }
     
     func show(withIcon withIcon:Bool!) {
+        
         if let navController : ZKNavigationController = self.navigationController as? ZKNavigationController {
             
             if !withIcon {
@@ -29,6 +35,8 @@ class ViewController: UIViewController {
                 let popupView = ZKNavigationPopupView(navigationController: navController, Icon: icon, Message: "Showing a ZKAlert")
                 navController.showAlert(popupView)
             }
+        } else {
+            print("COULD NOT DO ZKNAVCONTROLLER")
         }
     }
 

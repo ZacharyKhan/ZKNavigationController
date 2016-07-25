@@ -9,9 +9,9 @@
 import Foundation
 import UIKit
 
-class ZKNavigationPopupView : UIView {
+public class ZKNavigationPopupView : UIView {
 
-    init(navigationController:UINavigationController, Icon: ZKIcon?, Message: String!) {
+    public init(navigationController:UINavigationController, Icon: ZKIcon?, Message: String!) {
         super.init(frame: CGRect(x: 0, y: navigationController.navigationBar.frame.height-55, width: navigationController.navigationBar.frame.width, height: 55))
         self.backgroundColor = UIColor.darkGrayColor().colorWithAlphaComponent(0.65)
 
@@ -34,7 +34,7 @@ class ZKNavigationPopupView : UIView {
         self.addSubview(label)
     }
     
-    required init?(coder aDecoder: NSCoder) {
+    required public init?(coder aDecoder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
     }
     
