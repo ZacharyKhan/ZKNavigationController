@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+ZKNavigationController is a simple way to notify your users in a captivating way!
                        DESC
 
   s.homepage         = 'https://github.com/ZacharyKhan/ZKNavigationController'
