@@ -11,6 +11,10 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+Set your Navigation Controller to `ZKNavigationController` via storyboard or in viewDidLoad()
+
+`import ZKNavigationController`
+
 ## Installation
 
 ZKNavigationController is available through [CocoaPods](http://cocoapods.org). To install

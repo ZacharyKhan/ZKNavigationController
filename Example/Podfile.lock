@@ -1,5 +1,5 @@
 PODS:
-  - ZKNavigationController (0.1.0)
+  - ZKNavigationController (0.0.1)
 
 DEPENDENCIES:
   - ZKNavigationController (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  ZKNavigationController: 1067cfe715ec44dfaa1ef8aafb778e4cae514837
+  ZKNavigationController: 7a1b70d2dac2a9c9636e36418be8520846282c4f
 
 PODFILE CHECKSUM: 98a66579ec85269db1cd730c0851ea04e86405ab
 
