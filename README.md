@@ -22,7 +22,7 @@ pod "ZKNavigationController"
 
 ## Author
 
-Zach, zachary.khan3@gmail.com
+@ZacharyKhan3
 
 ## License
 
