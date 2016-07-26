@@ -28,6 +28,12 @@ it, simply add the following line to your Podfile:
 pod "ZKNavigationController"
 ```
 
+## Contribution
+
+If you would like to contribute to ZKNagivationController, please fork the repo. 
+
+For ALL feature requests and bugs, please submit an issue. 
+
 ## Author
 
 You can reach me on Twitter -> @ZacharyKhan3
