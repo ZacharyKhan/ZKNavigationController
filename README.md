@@ -1,6 +1,5 @@
 # ZKNavigationController
 
-[![CI Status](http://img.shields.io/travis/Zach/ZKNavigationController.svg?style=flat)](https://travis-ci.org/Zach/ZKNavigationController)
 [![Version](https://img.shields.io/cocoapods/v/ZKNavigationController.svg?style=flat)](http://cocoapods.org/pods/ZKNavigationController)
 [![License](https://img.shields.io/cocoapods/l/ZKNavigationController.svg?style=flat)](http://cocoapods.org/pods/ZKNavigationController)
 [![Platform](https://img.shields.io/cocoapods/p/ZKNavigationController.svg?style=flat)](http://cocoapods.org/pods/ZKNavigationController)
