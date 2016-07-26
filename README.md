@@ -7,7 +7,7 @@
 
 ## Screenshots
 
-![Alt Text](https://github.com/ZacharyKhan/ZKNavigationControllerDemo.gif)
+![Alt Text](https://raw.githubusercontent.com/ZacharyKhan/ZKNavigationController/986333ba9191efd29367ca069a184daa89bc45dc/Example/ZKNavigationControllerDemo.gif)
 
 ## Example
 
