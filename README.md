@@ -74,7 +74,7 @@ For ALL feature requests and bugs, please submit an issue.
 
 ## Author
 
-You can reach me on Twitter -> @ZacharyKhan3
+You can reach me on Twitter -> [@ZacharyKhan3](https://www.twitter.com/ZacharyKhan3 "Zach's Twitter Page")
 
 ## License
 
