@@ -7,7 +7,7 @@
 
 ## Screenshots
 
-<img src="https://drive.google.com/open?id=0B7TwBg3u0NidWXIzNjRSTFQtMlU" height="640">
+<img src="https://drive.google.com/open?id=0B7TwBg3u0NidWXIzNjRSTFQtMlU">
 &nbsp;
 
 ## Example
