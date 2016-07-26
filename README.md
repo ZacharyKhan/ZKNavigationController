@@ -60,7 +60,7 @@ class ViewController: UIViewController {
                 navController.showAlert(popupView)
             }
         } else {
-            print("COULD NOT DO ZKNAVCONTROLLER")
+            print("Navigation controller is not of type ZKNavigationController")
         }
     }
 }

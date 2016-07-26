@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZKNavigationController'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'Simple, yet clean way to show alerts via NavigationController'
 
 # This description is used to generate tags and improve search results.
@@ -38,5 +38,4 @@ ZKNavigationController is a simple way to notify your users in a captivating way
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
