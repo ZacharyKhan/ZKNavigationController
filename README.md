@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/ZKNavigationController.svg?style=flat)](http://cocoapods.org/pods/ZKNavigationController)
 [![Platform](https://img.shields.io/cocoapods/p/ZKNavigationController.svg?style=flat)](http://cocoapods.org/pods/ZKNavigationController)
 
-## Screenshots
+## Demo
 
 <img src="https://raw.githubusercontent.com/ZacharyKhan/ZKNavigationController/986333ba9191efd29367ca069a184daa89bc45dc/Example/ZKNavigationControllerDemo.gif" height="600"/>
 
