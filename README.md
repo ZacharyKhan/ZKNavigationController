@@ -28,6 +28,44 @@ it, simply add the following line to your Podfile:
 pod "ZKNavigationController"
 ```
 
+## Usage
+
+```ruby
+import UIKit
+import Foundation
+import ZKNavigationController
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+    }
+
+    @IBAction func showAlertButtonHandler(sender: AnyObject) {
+        self.show(withIcon: true)
+    }
+    
+    @IBAction func showWithoutIconHandler(sender: AnyObject) {
+        self.show(withIcon: false)
+    }
+
+    func show(withIcon withIcon:Bool!) {
+        if let navController : ZKNavigationController = self.navigationController as? ZKNavigationController {
+            if !withIcon {
+                let popupView = ZKNavigationPopupView(navigationController: navController, Icon: nil, Message: "Showing a ZKAlert")
+                navController.showAlert(popupView)
+            } else {
+                let icon = ZKIcon(image: UIImage(named: "image"))
+                let popupView = ZKNavigationPopupView(navigationController: navController, Icon: icon, Message: "Showing a ZKAlert")
+                navController.showAlert(popupView)
+            }
+        } else {
+            print("Navigation controller is not of type ZKNavigationController")
+        }
+    }
+}
+```
+
 ## Contribution
 
 If you would like to contribute to ZKNagivationController, please fork the repo. 
@@ -36,7 +74,7 @@ For ALL feature requests and bugs, please submit an issue.
 
 ## Author
 
-You can reach me on Twitter -> @ZacharyKhan3
+You can reach me on Twitter -> [@ZacharyKhan3](https://www.twitter.com/ZacharyKhan3 "Zach's Twitter Page")
 
 ## License
 
