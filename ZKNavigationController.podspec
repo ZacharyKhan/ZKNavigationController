@@ -24,7 +24,7 @@ ZKNavigationController is a simple way to notify your users in a captivating way
   s.homepage         = 'https://github.com/ZacharyKhan/ZKNavigationController'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Zach' => 'zachary.khan3@gmail.com' }
+  s.author           = { 'ZacharyKhan' => 'zachary.khan3@gmail.com' }
   s.source           = { :git => 'https://github.com/ZacharyKhan/ZKNavigationController.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/ZacharyKhan3'
 
