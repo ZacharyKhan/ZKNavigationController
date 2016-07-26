@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/ZKNavigationController.svg?style=flat)](http://cocoapods.org/pods/ZKNavigationController)
 [![Platform](https://img.shields.io/cocoapods/p/ZKNavigationController.svg?style=flat)](http://cocoapods.org/pods/ZKNavigationController)
 
-## Screenshots
+## Demo
 
 <img src="https://raw.githubusercontent.com/ZacharyKhan/ZKNavigationController/986333ba9191efd29367ca069a184daa89bc45dc/Example/ZKNavigationControllerDemo.gif" height="600"/>
 
@@ -27,6 +27,12 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod "ZKNavigationController"
 ```
+
+## Contribution
+
+If you would like to contribute to ZKNagivationController, please fork the repo. 
+
+For ALL feature requests and bugs, please submit an issue. 
 
 ## Author
 
