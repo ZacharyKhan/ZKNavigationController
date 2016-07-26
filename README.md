@@ -7,8 +7,7 @@
 
 ## Screenshots
 
-<img src="https://drive.google.com/open?id=0B7TwBg3u0NidWXIzNjRSTFQtMlU">
-&nbsp;
+![Alt Text](https://github.com/ZacharyKhan/ZKNavigationControllerDemo.gif)
 
 ## Example
 

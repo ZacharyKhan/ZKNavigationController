@@ -15,6 +15,7 @@
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		CFA92C683B1F7E8CE8209EEE /* Pods_ZKNavigationController_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 793F74634652D43045F21445 /* Pods_ZKNavigationController_Tests.framework */; };
+		D5D4BCD31D46F8C2004A8153 /* ZKNavigationControllerDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = D5D4BCD21D46F8C2004A8153 /* ZKNavigationControllerDemo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		793F74634652D43045F21445 /* Pods_ZKNavigationController_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZKNavigationController_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA36DD8EC07F1369904DC715 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		CD517D01D5F082AF988FFE78 /* Pods-ZKNavigationController_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZKNavigationController_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZKNavigationController_Tests/Pods-ZKNavigationController_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		D5D4BCD21D46F8C2004A8153 /* ZKNavigationControllerDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ZKNavigationControllerDemo.gif; sourceTree = "<group>"; };
 		E4417A4AEEDD11C2429DE57B /* Pods-ZKNavigationController_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZKNavigationController_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZKNavigationController_Example/Pods-ZKNavigationController_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		F9D29AB7FD5A59EAE53C66B3 /* Pods_ZKNavigationController_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZKNavigationController_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -92,6 +94,7 @@
 		607FACC71AFB9204008FA782 = {
 			isa = PBXGroup;
 			children = (
+				D5D4BCD21D46F8C2004A8153 /* ZKNavigationControllerDemo.gif */,
 				607FACF51AFB993E008FA782 /* Podspec Metadata */,
 				607FACD21AFB9204008FA782 /* Example for ZKNavigationController */,
 				607FACE81AFB9204008FA782 /* Tests */,
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D5D4BCD31D46F8C2004A8153 /* ZKNavigationControllerDemo.gif in Resources */,
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
