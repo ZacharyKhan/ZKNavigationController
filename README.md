@@ -30,7 +30,7 @@ pod "ZKNavigationController"
 
 ## Usage
 
-```ruby
+```swift
 import UIKit
 import Foundation
 import ZKNavigationController
